@@ -13,7 +13,7 @@ class Header extends Component {
                             <h1><a href="index.html"><strong>B</strong>ao <strong>M</strong>ang</a></h1>
                             <p>Ban cua moi nha</p>
                         </div>
-                        <div className="fl_right"><a href="#"><img src="images/demo/468x60.gif" alt /></a></div>
+                        <div className="fl_right"><a href="#"><img src="https://adtima-media.zadn.vn/2019/02/6dcf56a1-80fc-46b2-a645-014416a51f03.jpg" style={{height: '60px', width: '468px'}} alt /></a></div>
                         <br className="clear" />
                         </div>
                     </div>
